@@ -1,6 +1,33 @@
-title: Phylogenetics Training
-description: A training program to learn and apply phylogenetic analysis techniques.
-theme: jekyll-theme-slate  # You can choose any Jekyll theme (this one is the default GitHub Pages theme)
+title: Phylogenetic Training
+description: A 1-week training on phylogenetic tree construction at Moi University.
 url: https://yourorganization.github.io/Phylogenetic-Training
-baseurl: ""  # Base URL for your project. Leave empty for the root of your repository.
-markdown: kramdown  # Use kramdown for markdown rendering
+baseurl: "" # Leave empty for the root directory
+
+theme: jekyll-theme-slate  # You can change the theme to something more colorful, like minima or jekyll-theme-cayman
+
+# Color customization using Jekyll's theme settings (you can customize further in CSS)
+theme_color: "#FF5733"  # Primary color for buttons, links, etc.
+secondary_color: "#1E90FF"  # Accent color
+
+# Google Analytics or other analytics code (optional)
+# google_analytics: "UA-XXXXXXX-X"
+
+# Markdown options
+markdown: kramdown
+highlighter: rouge
+
+# Additional settings (optional)
+logo: "/assets/images/logo.png"  # Path to your logo image (optional)
+favicon: "/assets/images/favicon.ico"  # Path to your favicon (optional)
+
+# Links for footer or other places (optional)
+social_links:
+  - icon: "github"
+    url: "https://github.com/yourusername/Phylogenetic-Training"
+  - icon: "twitter"
+    url: "https://twitter.com/yourtwitterhandle"
+  - icon: "linkedin"
+    url: "https://www.linkedin.com/in/yourlinkedinprofile"
+
+# Include other site-wide information
+contact_email: torrorey@gmail.com
