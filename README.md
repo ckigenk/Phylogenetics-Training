@@ -1,4 +1,3 @@
-# Phylogenetic Training 
 ## About
 1-week Phylogenetic Training at Moi University in collaboration with Johan Nordgren from Linkoping University Division of Molecular Medicine and Virology 
 
