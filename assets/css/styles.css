@@ -1,0 +1,95 @@
+/* Custom CSS for Phylogenetic Training */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f8f8;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header Section */
+header {
+  background-color: #FF5733; /* Primary Color */
+  color: #ffffff;
+  padding: 2rem 0;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 3rem;
+  margin: 0;
+}
+
+header p {
+  font-size: 1.2rem;
+}
+
+header a {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+h1, h2, h3 {
+  color: #FF5733; /* Accent Color */
+}
+
+/* Footer Section */
+footer {
+  background-color: #1E90FF; /* Secondary Color */
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+footer p {
+  font-size: 1rem;
+}
+
+/* Links and Buttons */
+a {
+  color: #1E90FF;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FF5733;
+}
+
+/* Buttons */
+button {
+  background-color: #FF5733;
+  color: white;
+  border: none;
+  padding: 1rem 2rem;
+  font-size: 1.1rem;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+button:hover {
+  background-color: #E04E2B;
+}
+
+/* Card-like sections */
+.section {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin: 20px;
+}
+
+/* Registration form section */
+.registration {
+  background-color: #FFFAF0;
+  border-left: 5px solid #FF5733;
+  padding: 20px;
+}
+
+.registration a {
+  color: #FF5733;
+  font-weight: bold;
+}
