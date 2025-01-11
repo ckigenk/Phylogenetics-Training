@@ -1,0 +1,6 @@
+title: Phylogenetics Training
+description: A training program to learn and apply phylogenetic analysis techniques.
+theme: jekyll-theme-slate  # You can choose any Jekyll theme (this one is the default GitHub Pages theme)
+url: https://yourorganization.github.io/Phylogenetic-Training
+baseurl: ""  # Base URL for your project. Leave empty for the root of your repository.
+markdown: kramdown  # Use kramdown for markdown rendering
